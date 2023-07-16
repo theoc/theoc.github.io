@@ -1,11 +1,8 @@
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
 
 baseURL: "https://theoc.github.io/"
 title: "T. Christoudias"
 paginate: 9
-theme: hugo-PaperMod
+theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
