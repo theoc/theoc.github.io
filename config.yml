@@ -1,0 +1,161 @@
+baseURL: "http://christoudias.cyi.ac.cy/"
+title: "T. Christoudias - Cyprus Institute"
+paginate: 9
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-49287641-1
+
+minify:
+  disableXML: false
+  minifyOutput: false
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "T. Christoudias"
+  description: "Theodoros Christoudias, Associate Professor, Climate and Atmosphere Research Center, Cyprus Institute"
+  keywords: [Blog, Portfolio]
+  author: "T. Christoudias"
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: true
+
+  ShowReadingTime: false
+  #ShowShareButtons: true
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: true
+  showtoc: false
+  tocopen: false
+
+  outputs:
+    home: 
+      - HTML
+      - RSS
+      - JSON #necessary for search
+
+    page:
+      - HTML
+      - JSON
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+     disableFingerprinting: true
+    #favicon: "<link / abs url>"
+    #favicon16x16: "<link / abs url>"
+    #favicon32x32: "<link / abs url>"
+    #apple_touch_icon: "<link / abs url>"
+    #safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "T. Christoudias"
+      #icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Theo Christoudias"
+      #subtitle: "Associate Professor, Cyprus Institute"
+    subtitle: | 
+      [Associate Professor](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/102-theodoros-christoudias.html)  
+      [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy)  
+      [Cyprus Institute](https://www.cyi.ac.cy) 
+    imageUrl: "/img/Christoudias.jpg"
+    imageWidth: 165
+    imageHeight: 165
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: post
+      - name: Teaching
+        url: teaching
+      - name: CV
+        url: "http://christoudias.cyi.ac.cy/ChristoudiasCV.pdf"
+
+  # home-info mode
+  homeInfoParams:
+    #Title: "Hi there \U0001F44B"
+    Title: "Theo Christoudias"
+    Content: "[Associate Professor](), [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy), [Cyprus Institute](https://www.cyi.ac.cy)" 
+
+  socialIcons:
+    - name: email
+      url: "mailto:christoudias@cyi.ac.cy"
+    - name: rss
+      url: "http://christoudias.cyi.ac.cy/index.xml"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=dmfK7hsAAAAJ"
+    - name: researchgate
+      url: "https://www.researchgate.net/profile/Theo-Christoudias" 
+    - name: linkedin
+      url: "https://www.linkedin.com/in/christoudias/" 
+    - name: youtube
+      url: "https://www.youtube.com/channel/UCgsLw0tYsTPql3LHXJCn6wQ"
+    - name: github
+      url: "https://github.com/theoc"
+    - name: twitter
+      url: "https://twitter.com/tchristoudias"
+
+  analytics:
+    google:
+      #SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: archive
+      name: Posts
+      url: /post/
+      weight: 10
+    - identifier: categories
+      name: Teaching
+      url: /teaching/
+      weight: 20
+        #- identifier: search
+        #  name: search
+        #  url: /search/
+        #  weight: 20
+    - identifier: cv
+      name: CV
+      url: "http://christoudias.cyi.ac.cy/ChristoudiasCV.pdf"
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
+
+
