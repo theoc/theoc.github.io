@@ -1,5 +1,5 @@
-baseURL: "http://christoudias.cyi.ac.cy/"
-title: "T. Christoudias - Cyprus Institute"
+baseURL: "https://theoc.github.io/"
+title: "T. Christoudias"
 paginate: 9
 theme: PaperMod
 
@@ -83,11 +83,10 @@ params:
       - name: Teaching
         url: teaching
       - name: CV
-        url: "http://christoudias.cyi.ac.cy/ChristoudiasCV.pdf"
+        url: "/ChristoudiasCV.pdf"
 
   # home-info mode
   homeInfoParams:
-    #Title: "Hi there \U0001F44B"
     Title: "Theo Christoudias"
     Content: "[Associate Professor](), [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy), [Cyprus Institute](https://www.cyi.ac.cy)" 
 
@@ -95,7 +94,7 @@ params:
     - name: email
       url: "mailto:christoudias@cyi.ac.cy"
     - name: rss
-      url: "http://christoudias.cyi.ac.cy/index.xml"
+      url: "/index.xml"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=dmfK7hsAAAAJ"
     - name: researchgate
@@ -146,7 +145,7 @@ menu:
         #  weight: 20
     - identifier: cv
       name: CV
-      url: "http://christoudias.cyi.ac.cy/ChristoudiasCV.pdf"
+      url: "/ChristoudiasCV.pdf"
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
