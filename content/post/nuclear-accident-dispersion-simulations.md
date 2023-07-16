@@ -1,7 +1,7 @@
 +++
 date = "2023-03-05T12:00:00"
 tags = []
-title = "Modelling the dispersion of radionuclides from hypothetical accidents at nuclear power plants throughout the Middle East"
+title = "Modelling radionuclide dispersion from hypothetical accidents at nuclear power plants throughout the Middle East"
 +++
 
 The Qatar Environment and Energy Research Institute (QEERI) at Hamad Bin Khalifa University (HBKU) and The Cyprus Institute (Cyl) jointly organized a seminar on March 5, 2023, in Doha, Qatar, to share the findings of a joint research project simulating the atmospheric dispersion of radioactivity from hypothetical nuclear power plant accidents in the Middle East. Several nuclear facilities are planned or proposed, and in the last few years are under construction or becoming operational in this region that has unique climatological conditions.
