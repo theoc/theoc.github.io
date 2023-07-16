@@ -137,14 +137,14 @@ menu:
       name: Teaching
       url: /teaching/
       weight: 20
-        #- identifier: search
-        #name: Search
-        #url: /search/
-        #weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
     - identifier: cv
       name: CV
       url: "https://theoc.github.io/ChristoudiasCV.pdf"
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
