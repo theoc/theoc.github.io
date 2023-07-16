@@ -1,4 +1,4 @@
-
+languageCode: en-us
 baseURL: "https://theoc.github.io/"
 title: "T. Christoudias"
 paginate: 9
@@ -8,12 +8,13 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 
 googleAnalytics: UA-49287641-1
 
 minify:
-  disableXML: false
-  minifyOutput: false
+  disableXML: true
+  minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -40,16 +41,6 @@ params:
   hideSummary: true
   showtoc: false
   tocopen: false
-
-  outputs:
-    home: 
-      - HTML
-      - RSS
-      - JSON #necessary for search
-
-    page:
-      - HTML
-      - JSON
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -129,9 +120,15 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+  
+  outputs:
+    home: 
+      - HTML
+      - RSS
+      - JSON #necessary for search
 
-menu:
-  main:
+  menu:
+    main:
     - identifier: archive
       name: Posts
       url: /post/
@@ -140,13 +137,13 @@ menu:
       name: Teaching
       url: /teaching/
       weight: 20
-    - identifier: search
-      name: search
-      url: /search/
-      weight: 30
+        #- identifier: search
+        #name: Search
+        #url: /search/
+        #weight: 30
     - identifier: cv
       name: CV
-      url: "/ChristoudiasCV.pdf"
+      url: "https://theoc.github.io/ChristoudiasCV.pdf"
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
