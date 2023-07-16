@@ -15,6 +15,6 @@ Representatives from Qatar's government and public sectors, including Qatar Civi
 
 ### Publication  
 
-[Spatiotemporal variation of radionuclide dispersion from nuclear power plant accidents using FLEXPART mini-ensemble modeling](https://doi.org/10.5194/acp-23-7719-2023, 2023), Atmos. Chem. Phys., 23, 7719-7739
+[Spatiotemporal variation of radionuclide dispersion from nuclear power plant accidents using FLEXPART mini-ensemble modeling](https://doi.org/10.5194/acp-23-7719-2023), Atmos. Chem. Phys., 23, 7719-7739
 
 The objective of our study is to comprehensively assess the timing of radioactive material transportation and deposition, along with the associated population exposure in the designated region. We employed diverse meteorological inputs, emission specifics, and simulation codes, aiming to quantify the level of uncertainty.
