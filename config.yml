@@ -1,7 +1,7 @@
 baseURL: "https://theoc.github.io/"
 title: "T. Christoudias"
 paginate: 9
-theme: PaperMod
+theme: https://github.com/adityatelange/hugo-PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
