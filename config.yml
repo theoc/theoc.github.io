@@ -120,14 +120,14 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-  
-  outputs:
+
+outputs:
     home: 
       - HTML
       - RSS
       - JSON #necessary for search
 
-  menu:
+menu:
     main:
     - identifier: archive
       name: Posts
