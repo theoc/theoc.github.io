@@ -144,7 +144,7 @@ params:
     - identifier: cv
       name: CV
       url: "https://theoc.github.io/ChristoudiasCV.pdf"
-      weight: 40
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
