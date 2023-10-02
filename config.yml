@@ -72,8 +72,6 @@ params:
     buttons:
       - name: Posts
         url: post
-      - name: Teaching
-        url: teaching
       - name: CV
         url: "/ChristoudiasCV.pdf"
 
@@ -137,14 +135,18 @@ menu:
       name: Teaching
       url: /teaching/
       weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 30
     - identifier: search
       name: Search
       url: /search/
-      weight: 30
+      weight: 40
     - identifier: cv
       name: CV
       url: "https://theoc.github.io/ChristoudiasCV.pdf"
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

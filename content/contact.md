@@ -6,11 +6,13 @@
 title = "Contact"
 
 +++
+Theodoros Christoudias  
+Climate and Atmosphere Research Center  
+Cyprus Institute  
+20 Konstantinou Kavafi Street,  2121 Aglantzia  
+Nicosia, Cyprus
 
-20 Konstantinou Kavafi Street,<br>
-2121 Aglantzia,<br>
-Nicosia,<br>
-Cyprus<br>
+Post: P.O. Box 27456, 1645, Nicosia, Cyprus
 
 E-mail: <christoudias@cyi.ac.cy>
 
