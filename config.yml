@@ -21,7 +21,7 @@ params:
   title: "T. Christoudias"
   description: "Theodoros Christoudias, Associate Professor, Climate and Atmosphere Research Center, Cyprus Institute"
   keywords: [Blog, Portfolio]
-  author: "T. Christoudias"
+  author: ""
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -68,7 +68,7 @@ params:
     imageUrl: "/img/Christoudias.jpg"
     imageWidth: 165
     imageHeight: 165
-    imageTitle: my image
+    imageTitle: Theo Christoudias
     buttons:
       - name: Posts
         url: post
