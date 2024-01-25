@@ -24,7 +24,8 @@ As an extension of this approach, the assessment of the future drought and wildl
 
 ## Links
 
-* [DISARM (Drought and fIre ObServatory and eArly waRning systeM)](http://www.interreg-balkanmed.eu/approved-project/16/)
+* [DISARM (Drought and fIre ObServatory and eArly waRning systeM)](http://disarmfire.eu)
+* [DISARM Fire web portal](http://map.disarmfire.eu)
 * [EGU 2019 Abstract](https://meetingorganizer.copernicus.org/EGU2019/EGU2019-5168.pdf)
 
 ## Acknowledgements

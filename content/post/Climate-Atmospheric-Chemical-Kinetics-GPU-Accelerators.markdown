@@ -25,6 +25,5 @@ Vastly improved spatial and temporal simulation accuracy will allow assessment o
 ## Links
 
 * [Open Research Software Journal](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.158/)
-* [Vi-SEEM code repository](https://code.vi-seem.eu/malvanos/medina)
 * [Github repository](https://github.com/CyIClimate/medina)
 

@@ -10,7 +10,7 @@ cover:
 
 Research scientists at The Cyprus Institute have computed the
 atmospheric dispersion of debris from the Mari ammunition explosion on
-11 July, 2011, using the Weather Research and Forecasting ([WRF](http://www.wrf-model.org)) model. A
+11 July, 2011, using the Weather Research and Forecasting ([WRF](https://www.mmm.ucar.edu/models/wrf)) model. A
 high-resolution computational model of the atmosphere (3x3 km
 resolution) was used together with meteorological observations, starting
 at 6am local time. 
@@ -41,7 +41,7 @@ _Atmospheric dispersion and fallout from the Mari ammunition explosion on 11 Jul
 Τα αποτελέσματα θεωρούνται ακριβή, λαμβάνοντας πάντα υπόψη τις λογισμικές υπολογιστικές αβεβαιότητες των
 συνδεδεμένων μοντέλων.
 
-Το επιστημονικό μοντέλο μετεωρολογικής πρόβλεψης [WRF](http://www.wrf-model.org) χρησιμοποιείται διεθνώς από χιλιάδες επιστήμονες και
+Το επιστημονικό μοντέλο μετεωρολογικής πρόβλεψης [WRF](https://www.mmm.ucar.edu/models/wrf) χρησιμοποιείται διεθνώς από χιλιάδες επιστήμονες και
 προβλέπει με εξαιρετική ακρίβεια την ποιότητα του αέρα, τον καιρό, τη θερμοκρασία και το ενδεχόμενο πλημμυρών.
 Αυτό επιτυγχάνεται μέσα από τις εφαρμογές και τη λειτουργία ενός πολύπλοκου λογισμικού συστήματος που ανήκει
 στο Εθνικο Κέντρο Ατμοσφαιρικής Έρευνας ([NCAR](http://ncar.ucar.edu)) των ΗΠΑ, και χρησιμοποιείται ευρέως σε όλο τον κόσμο.
