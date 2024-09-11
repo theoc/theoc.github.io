@@ -1,5 +1,6 @@
 languageCode: en-us
-baseURL: "https://theoc.github.io/"
+#baseURL: "http://christoudias.cyi.ac.cy"
+baseURL: "https://theoc.github.io"
 title: "T. Christoudias"
 paginate: 9
 theme: PaperMod
@@ -10,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-googleAnalytics: UA-49287641-1
+googleAnalytics: G-5DY6HBLE8M
 
 minify:
   disableXML: true
