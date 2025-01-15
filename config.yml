@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Theo Christoudias"
       #subtitle: "Associate Professor, Cyprus Institute"
-    subtitle: | 
+    subtitle: |
       [Associate Professor](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/102-theodoros-christoudias.html)  
       [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy)  
       [Cyprus Institute](https://www.cyi.ac.cy) 
@@ -79,13 +79,11 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Theo Christoudias"
-    Content: "[Associate Professor](), [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy), [Cyprus Institute](https://www.cyi.ac.cy)" 
+    Content: "[Associate Professor](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/102-theodoros-christoudias.html), [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy), [Cyprus Institute](https://www.cyi.ac.cy)" 
 
   socialIcons:
-    - name: email
-      url: "mailto:christoudias@cyi.ac.cy"
-    - name: rss
-      url: "/index.xml"
+    - name: orcid
+      url: "https://orcid.org/0000-0001-9050-3880"
     - name: googlescholar
       url: "https://scholar.google.com/citations?user=dmfK7hsAAAAJ"
     - name: researchgate
@@ -94,10 +92,15 @@ params:
       url: "https://www.linkedin.com/in/christoudias/" 
     - name: youtube
       url: "https://www.youtube.com/channel/UCgsLw0tYsTPql3LHXJCn6wQ"
-    - name: github
-      url: "https://github.com/theoc"
     - name: twitter
       url: "https://twitter.com/tchristoudias"
+    - name: github
+      url: "https://github.com/theoc"
+    - name: rss
+      url: "/index.xml"
+    - name: email
+      url: "mailto:christoudias@cyi.ac.cy"
+
 
   analytics:
     google:

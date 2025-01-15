@@ -11,9 +11,9 @@ title = "Teaching"
 
 ## Courses
 
-### [ES 416 - Atmospheric Modelling](https://www.cyi.ac.cy/index.php/education/masters-programs/environmental-sciences/es-416-atmospheric-and-climate-modelling.html)
+### [ES 416 - Atmospheric and Climate Modelling](https://www.cyi.ac.cy/index.php/education/masters-programs/environmental-sciences/es-416-atmospheric-and-climate-modelling.html) 
 
-### [CoS 518 - Climate Modelling](https://www.cyi.ac.cy/index.php/education/phd-programs/computational-sciences/phd-cos-program-overview/cos-518-climate-modelling)
+### [COS 518 - Climate Modelling](https://www.cyi.ac.cy/index.php/education/phd-programs/computational-sciences/phd-cos-program-overview/cos-518-climate-modelling)
 
 ## Schools &amp; Workshops
 
