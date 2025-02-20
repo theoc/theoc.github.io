@@ -2,8 +2,9 @@ languageCode: en-us
 #baseURL: "http://christoudias.cyi.ac.cy"
 baseURL: "https://theoc.github.io"
 title: "T. Christoudias"
-paginate: 9
+pagerSize: 9
 theme: PaperMod
+ignoreLogs: ['warning-goldmark-raw-html']
 
 enableRobotsTXT: true
 buildDrafts: false
