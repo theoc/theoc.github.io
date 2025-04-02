@@ -16,6 +16,5 @@ Nicosia, Cyprus
 
 **E-mail:** <christoudias@cyi.ac.cy>
 
-**Tel.:** +357 [22208677](tel:+35722208677)
+**Tel.:** [+357 22208677](tel:+35722208677)
 
-**Skype:** [christoudias](skype:christoudias)
