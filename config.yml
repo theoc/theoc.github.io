@@ -73,7 +73,7 @@ params:
     buttons:
       - name: Posts
         url: post
-      - name: CV
+      - name: Curriculum Vitae
         url: "/ChristoudiasCV.pdf"
 
   # home-info mode
@@ -92,8 +92,10 @@ params:
       url: "https://www.linkedin.com/in/christoudias/" 
     - name: youtube
       url: "https://www.youtube.com/channel/UCgsLw0tYsTPql3LHXJCn6wQ"
-    - name: twitter
-      url: "https://twitter.com/tchristoudias"
+    - name: x
+      url: "https://x.com/tchristoudias"
+    - name: bluesky
+      url: "https://bsky.app/profile/christoudias.bsky.social"
     - name: github
       url: "https://github.com/theoc"
     - name: rss
