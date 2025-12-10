@@ -61,7 +61,6 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Theo Christoudias"
-      #subtitle: "Associate Professor, Cyprus Institute"
     subtitle: |
       [Associate Professor](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/102-theodoros-christoudias.html)  
       [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy)  
