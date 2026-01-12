@@ -70,6 +70,8 @@ params:
     imageHeight: 165
     imageTitle: Theo Christoudias
     buttons:
+      - name: Research
+        url: research
       - name: Posts
         url: post
       - name: Curriculum Vitae
@@ -78,8 +80,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Theo Christoudias"
-    Content: "[Associate Professor](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/102-theodoros-christoudias.html), [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy), [Cyprus Institute](https://www.cyi.ac.cy)" 
-
+    Content: "[Associate Professor](https://www.cyi.ac.cy/index.php/care-c/about-the-center/care-c-our-people/itemlist/user/102-theodoros-christoudias.html), [Climate and Atmosphere Research Center](https://emme-care.cyi.ac.cy), [Cyprus Institute](https://www.cyi.ac.cy)"
   socialIcons:
     - name: orcid
       url: "https://orcid.org/0000-0001-9050-3880"
@@ -132,26 +133,30 @@ outputs:
 
 menu:
     main:
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 10
     - identifier: archive
       name: Posts
       url: /post/
-      weight: 10
+      weight: 20
     - identifier: categories
       name: Teaching
       url: /teaching/
-      weight: 20
+      weight: 30
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 30
+      weight: 40
     - identifier: search
       name: Search
       url: /search/
-      weight: 40
+      weight: 50
     - identifier: cv
       name: CV
       url: "https://theoc.github.io/ChristoudiasCV.pdf"
-      weight: 50
+      weight: 60
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
