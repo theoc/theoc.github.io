@@ -17,10 +17,13 @@ title = "Teaching"
 
 ## Schools &amp; Workshops
 
+[European Workshop on Atmospheric Dust](https://dust-dn.cyi.ac.cy/dust-dn-workshops/workshop2026/),
+Organised by the Dust Doctoral Network ([Dust-DN](https://dust-dn.cyi.ac.cy)), 2026
+
 [International HPC Summer School Challenges in Computational Sciences](http://ihpcss2016.hpc.fs.uni-lj.si) Mentor, 2016.
 
-[High Performance Visualization for Large-Scale Scientific Data Analytics](https://bluewaters.ncsa.illinois.edu/visualization), [NCSA](http://www.ncsa.illinois.edu/), 2015.
+[High Performance Visualization for Large-Scale Scientific Data Analytics](https://bluewaters.ncsa.illinois.edu/visualization), [NCSA](http://www.ncsa.illinois.edu/) [Blue Waters](https://bluewaters.ncsa.illinois.edu), 2015.
 
-[Workshop on Advanced Scientific Visualization](/post/advanced-scientific-visualization-workshop/), 
-[Cyprus Institute](http://www.cyi.ac.cy) & [NCSA](http://www.ncsa.illinois.edu/) [AVL](http://avl.ncsa.illinois.edu/realworld-software/cyprus-visualization-workshop), 2013. 
+[Workshop on Advanced Scientific Visualization](/post/advanced-scientific-visualization-workshop/),
+Organised by [Cyprus Institute](http://www.cyi.ac.cy) & [NCSA](http://www.ncsa.illinois.edu/) [AVL](http://avl.ncsa.illinois.edu/realworld-software/cyprus-visualization-workshop), 2013. 
 
