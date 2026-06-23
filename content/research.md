@@ -43,6 +43,7 @@ Apply directly through the Cyprus Institute Graduate School [online application 
 ## Group Members
 
 ### Postdocs
+Christos Xenofontos,
 [Pantelis Kiriakidis](https://www.linkedin.com/in/panteliskiriakidis/), 
 [Elena Louca](https://sites.google.com/view/elena-luca/home) (2023-2025), 
 [Alexandros Stamatiou](https://www.researchgate.net/profile/Alexandros-Stamatiou) (2022-2023),
@@ -52,7 +53,7 @@ Apply directly through the Cyprus Institute Graduate School [online application 
 
 ### PhD Students
 Semontee Deb,
-Christos Xenofontos,
+Christos Xenofontos (2022-2026),
 Giannis Ashiotis,
 Kyriakos Sofokleous,
 [Pantelis Kiriakidis](https://www.linkedin.com/in/panteliskiriakidis/) (2021-2024),
