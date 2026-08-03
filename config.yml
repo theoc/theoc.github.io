@@ -70,8 +70,6 @@ params:
     imageHeight: 165
     imageTitle: "Theo Christoudias"
     buttons:
-      - name: Research
-        url: research
       - name: Posts
         url: post
       - name: Curriculum Vitae
@@ -136,10 +134,6 @@ outputs:
 
 menu:
     main:
-    - identifier: research
-      name: Research
-      url: /research/
-      weight: 10
     - identifier: archive
       name: Posts
       url: /post/
